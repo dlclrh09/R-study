@@ -16,3 +16,4 @@ c(TRUE, FALSE, TRUE) #중요! T/TURE, F/FALSE 참, 거짓을 나타내는 속성
 4: 6 7 
 6:
 Read 5 items
+zzz
