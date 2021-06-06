@@ -1,0 +1,7 @@
+cd C:\Users\gkdbal\R-study
+
+git add .   → 파일명
+git commit -m "→작업명"
+git push
+
+
