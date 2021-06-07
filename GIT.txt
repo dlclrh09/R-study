@@ -1,7 +1,16 @@
+git clone
+
 cd C:\Users\gkdbal\R-study
 
 git add .   → 파일명
-git commit -m "→작업명"
+git commit -m "→작업명" > 내가 알아볼 수 있도록
 git push
 
 
+cd C:\Users\gkdbal\Desktop\PythonWorkspace
+
+
+★先세팅★
+폴더 옮기기 → git code 복붙  → 사용자 폴더  → 
+
+Lecture3scan()
